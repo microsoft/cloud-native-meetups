@@ -4,26 +4,31 @@ This project is an index of cloud-native and Kubernetes meetup content.
 
 ## Presentations
 
-- [Cloud-native applications on Azure](presentations/cloud-native-apps-azure.pptx)
-- [Kubernetes on Azure](presentations/k8s-on-azure.pptx)
-- [Azure Cosmos DB](presentations/azure-cosmos-db.pptx)
+| Asset | Description |
+|---|-----|
+| ![What is cloud native?](what-is-cloud-native.png) <br/> [Cloud-native applications on Azure](presentations/cloud-native-apps-azure.pptx) | Start with presenting the cloud-native applications deck, which describes what they are and goes into a few scenarios like application modernization, real-time telemetry and geo-distributed apps with real customer examples and architecture diagrams. |
+|  ![Kubernetes on Azure](k8s-on-azure.png)  <br/> [Kubernetes on Azure](presentations/k8s-on-azure.pptx) | Follow by diving into more details on running Kubernetes on Azure with Azure Kubernetes Service. |
+|  ![Azure Cosmos DB](cosmos-db.png) <br/> [Azure Cosmos DB](presentations/azure-cosmos-db.pptx) | Then talk about using Azure Cosmos DB, a globally distributed, massively scalable, multi-modal database service to build modern applications. |
 
-## Getting started with cloud-native application development
+## Hands-on content and demos
+
+From content on Microsoft Learn, tutorials to sample applications, use this content to run a 2-3 hour workshop, or extend it over 2 days.
+
+### Getting started with cloud-native application development
 
 - [Get started with Kubernetes on Azure workshop on Microsoft Learn](https://aka.ms/learn/aksworkshop)
-- [Microsoft cloud workshop for cloud-native applications](https://github.com/microsoft/MCW-Cloud-native-applications)
-- [Rock, paper, scissors, lizard, spock](https://docs.microsoft.com/en-us/samples/microsoft/rockpaperscissorslizardspock/azure-rock-paper-scissors/)
+- [Rock, paper, scissors, lizard, spock sample application](https://docs.microsoft.com/en-us/samples/microsoft/rockpaperscissorslizardspock/azure-rock-paper-scissors/)
 
-## Bike Sharing application: Streamlining the development workflow
+### Bike Sharing application: Streamlining the development workflow
 
-- [Deploy the Bike Sharing application to Azure Kubernetes Service](https://github.com/Azure/dev-spaces/tree/master/samples/BikeSharingApp)
-- [Connect your development machine to an Azure Kubernetes Service cluster](https://docs.microsoft.com/en-us/azure/dev-spaces/how-to/connect)
-- [Team development on Kubernetes using Dev Spaces](https://docs.microsoft.com/en-us/azure/dev-spaces/quickstart-team-development)
-- [Combine GitHub Actions with Dev Spaces in a pull request review](https://docs.microsoft.com/en-us/azure/dev-spaces/how-to/github-actions)
+- [Deploy the Bike Sharing application to Azure Kubernetes Service tutorial](https://github.com/Azure/dev-spaces/tree/master/samples/BikeSharingApp)
+- [Connect your development machine to an Azure Kubernetes Service cluster tutorial](https://docs.microsoft.com/en-us/azure/dev-spaces/how-to/connect)
+- [Team development on Kubernetes using Dev Spaces tutorial](https://docs.microsoft.com/en-us/azure/dev-spaces/quickstart-team-development)
+- [Combine GitHub Actions with Dev Spaces in a pull request review tutorial](https://docs.microsoft.com/en-us/azure/dev-spaces/how-to/github-actions)
 
-## Tailwind Traders: A fictitious retail company showcasing the future of intelligent application experiences
+### Tailwind Traders: A fictitious retail company showcasing the future of intelligent application experiences
 
-- [Tailwind Traders](https://microsoft.github.io/TailwindTraders/)
+- [Tailwind Traders sample application](https://microsoft.github.io/TailwindTraders/)
 
 # Contributing
 
