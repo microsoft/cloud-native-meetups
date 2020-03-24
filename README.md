@@ -19,6 +19,12 @@ From content on Microsoft Learn, tutorials to sample applications, use this cont
 - [Get started with Kubernetes on Azure workshop on Microsoft Learn](https://aka.ms/learn/aksworkshop)
 - [Rock, paper, scissors, lizard, spock sample application](https://docs.microsoft.com/en-us/samples/microsoft/rockpaperscissorslizardspock/azure-rock-paper-scissors/)
 
+### Azure Kubernetes Service 10 minute labs
+- [Deploy using GitHub Actions into Azure Kubernetes Service](https://azure.github.io/kube-labs/1-github-actions.html)
+- [Improve debugging experience using Dev Spaces Connect](https://azure.github.io/kube-labs/2-devspaces-connect.html)
+- [Build a Dapr pub-sub-app using Visual Studio Code](https://azure.github.io/kube-labs/3-dapr-pubsub.html)
+- [Trace applications using Application Insights](https://azure.github.io/kube-labs/5-aks-appinsights.html)
+
 ### Bike Sharing application: Streamlining the development workflow
 
 - [Deploy the Bike Sharing application to Azure Kubernetes Service tutorial](https://github.com/Azure/dev-spaces/tree/master/samples/BikeSharingApp)
