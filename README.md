@@ -10,6 +10,12 @@ This project is an index of cloud-native and Kubernetes meetup content.
 |  ![Kubernetes on Azure](k8s-on-azure.png)  <br/> [Kubernetes on Azure](presentations/k8s-on-azure.pptx) | Follow by diving into more details on running Kubernetes on Azure with Azure Kubernetes Service. |
 |  ![Azure Cosmos DB](cosmos-db.png) <br/> [Azure Cosmos DB](presentations/azure-cosmos-db.pptx) | Then talk about using Azure Cosmos DB, a globally distributed, massively scalable, multi-modal database service to build modern applications. |
 
+## Videos
+
+| Asset | Description |
+|---|-----|
+| [Cloud-native applications on Azure](presentations/cloud-native-apps-azure.pptx) | Start with presenting the cloud-native applications deck, which describes what they are and goes into a few scenarios like application modernization, real-time telemetry and geo-distributed apps with real customer examples and architecture diagrams. |
+
 ## Hands-on content and demos
 
 From content on Microsoft Learn, tutorials to sample applications, use this content to run a 2-3 hour workshop, or extend it over 2 days.
