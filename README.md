@@ -12,9 +12,16 @@ This project is an index of cloud-native and Kubernetes meetup content.
 
 ## Videos
 
-| Asset | Description |
-|---|-----|
-| [Cloud-native applications on Azure](presentations/cloud-native-apps-azure.pptx) | Start with presenting the cloud-native applications deck, which describes what they are and goes into a few scenarios like application modernization, real-time telemetry and geo-distributed apps with real customer examples and architecture diagrams. |
+| Asset | Description | Type | Notes |
+|---|-----|-----|----|----|
+| [AKS Diagnostics](videos/AKSDiagnositcs.mp4) | Overview of using AKS diagnostics within the Azure portal. | video | ~ 23 sec |
+|[Azure Arc Overview](videos/Azure Arc - Kubernetes - KubeCon - Screens.pptx) | Guided screen by screen overview of Azure Arc for Kubernetes. Covers onboarding, configuration, Policy, and Monitoring.| PowerPoint | 32 slides |
+| [Azure Dev Spaces](videos/Azure Dev Spaces.mp4) | Recorded debugging session of Rock, paper, scissors game built using microservices and running on Kubernetes. Debugging done using Azure Dev Spaces extension for Visual Studio Code. Includes discussion of using GitHubs Actions workflow for propagating the fix to rest of the team. | Video | ~6 minutes |
+| [Confidential computing for Kubernetes](videos/Confidential computing for Kubernetes.mp4) | Overview of Confidential computing and key scenarios.  | Video | ~1 min 20 sec |
+| [Container Insights demo](videos/Container Insights KubeCon demo.mp4) | Demo of using Azure Monitor for container insights. Shows drilldowns, filtering and similar capabilities to zero in on relevant insights.   | Video | ~8 mins |
+
+
+
 
 ## Hands-on content and demos
 
