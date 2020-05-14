@@ -13,7 +13,7 @@ This project is an index of cloud-native and Kubernetes meetup content.
 ## Videos
 
 | Asset | Description | Type | Notes |
-|---|-----|-----|----|----|
+|---|-----|-----|----|
 | [AKS Diagnostics](videos/AKSDiagnositcs.mp4) | Overview of using AKS diagnostics within the Azure portal. | video | ~ 23 sec |
 |[Azure Arc Overview](videos/Azure Arc - Kubernetes - KubeCon - Screens.pptx) | Guided screen by screen overview of Azure Arc for Kubernetes. Covers onboarding, configuration, Policy, and Monitoring.| PowerPoint | 32 slides |
 | [Azure Dev Spaces](videos/Azure Dev Spaces.mp4) | Recorded debugging session of Rock, paper, scissors game built using microservices and running on Kubernetes. Debugging done using Azure Dev Spaces extension for Visual Studio Code. Includes discussion of using GitHubs Actions workflow for propagating the fix to rest of the team. | Video | ~6 minutes |
