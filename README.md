@@ -36,15 +36,16 @@ This project is an index of cloud-native and Kubernetes meetup content.
 
 
 
-## Takeaway materials
+## Related Resources
 
-| Cloud Native Tools | Security | Day 2 Operations | Solutions AI/ML | Kubernetes Learning |
-|----|-----|----|----|-----| 
-| [Best practices](https://aka.ms/aks/bestpractices) | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) | [Learning path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-and-training/) |
-| [Azure free credit](https://azure.microsoft.com/en-us/free/) | [Brendan’s DevSecOps webinar](https://info.microsoft.com/ww-ondemand-help-deliver-applications-securely-with-devsecops-us.html) | [Kubernetes Up and running (eBook)](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/) |  | [Azure free credit](https://azure.microsoft.com/en-us/free/)|
-||[Security essentials whitepaper](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original)||| [Effectively manage your Kubernetes clusters with built-in best practices (webinar)](https://info.microsoft.com/ww-landing-manage-your-kubernetes-clusters-with-built-in-best-practices.html?LCID=EN-US)|
-|||||[Apply Kubernetes best practices for cluster management (webinar)](https://info.microsoft.com/ww-ondemand-apply-kubernetes-best-practices-for-cluster-management.html?lcid=en-us)|
-|||||[Best practices to secure your Kubernetes cluster (webinar)](https://info.microsoft.com/ww-ondemand-best-practices-to-secure-your-kubernetes-cluster.html?lcid=en-us)|
+| Category | Resources |
+|----|-----|
+| Cloud Native Tools | [Best practices](https://aka.ms/aks/bestpractices) <br> [Azure free credit](https://azure.microsoft.com/en-us/free/) |
+| Security | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) <br>  [Brendan’s DevSecOps webinar](https://info.microsoft.com/ww-ondemand-help-deliver-applications-securely-with-devsecops-us.html)<br> [Security essentials whitepaper](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original) |
+| Day 2 Operations | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/)<br> [Kubernetes Up and running (eBook)](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/) |
+| Solutions AI/ML | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) |
+| Kubernetes Learning | [Learning path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-and-training/) <br> [Azure free credit](https://azure.microsoft.com/en-us/free/) <br> [Effectively manage your Kubernetes clusters with built-in best practices (webinar)](https://info.microsoft.com/ww-landing-manage-your-kubernetes-clusters-with-built-in-best-practices.html?LCID=EN-US)<br> [Apply Kubernetes best practices for cluster management (webinar)](https://info.microsoft.com/ww-ondemand-apply-kubernetes-best-practices-for-cluster-management.html?lcid=en-us) <br> [Best practices to secure your Kubernetes cluster (webinar)](https://info.microsoft.com/ww-ondemand-best-practices-to-secure-your-kubernetes-cluster.html?lcid=en-us)|
+
 
 
 
