@@ -15,11 +15,10 @@ This project is an index of cloud-native and Kubernetes meetup content.
 
 | Asset | Category | Description | Type | Notes |
 |--|-|---|---|---|
-| [Kubernetes on Azure Pitch Deck](videos/LearningZoneKubernetesonAzure.wmv) | Overview | Video recording of the Kubernetes on Azure pitch deck. Highlights key Kubernetes use cases and capabilities. | Video | ~10.5 mins |
+| [Kubernetes on Azure Pitch Deck](https://cncontent.blob.core.windows.net/videos/LearningZoneKubernetesonAzure.wmv) | Overview | Video recording of the Kubernetes on Azure pitch deck. Highlights key Kubernetes use cases and capabilities. | Video | ~10.5 mins |
 | [Kurbernetes DevOps](videos/KurbernetesDevOps.wmv) | Cloud native tools | Presentation showcasing end to end devOps with Kubernetes | Video | ~1 min 20 secs |
 | [KubeCon DevSpaces Lab Steps](videos/KubeConDevSpacesLabSteps.docx) | Cloud native tools | 10-minute step by step quick start document to increase pull request confidence using Dev Spaces | Document | 3 pages |
-| [Azure Dev Spaces](videos/AzureDevSpaces.mp4) | Cloud native tools | Recorded debugging session of Rock, paper, scissors game built using microservices and running on Kubernetes. Debugging done using Azure Dev Spaces extension for Visual Studio Code. Includes discussion of using GitHubs Actions workflow for propagating the fix to rest of the team. | Video | ~6 minutes |
-| [Helm 3 Demo Loop](videos/helm3demoloop.mp4) | Cloud native tools | Presentation video overview of key Helm 3 changes and demo of its capabilities | Video | ~7 mins |
+| [Helm 3 Demo Loop](https://cncontent.blob.core.windows.net/videos/helm3demoloop.mp4) | Cloud native tools | Presentation video overview of key Helm 3 changes and demo of its capabilities | Video | ~7 mins |
 | [Helm 3 Demo](videos/helm3demo.mp4) | Cloud native tools | Helm 3 demo showing WordPress site deployment, namespace creation, & site test. | Video | ~3.5 mins |
 | [Confidential computing for Kubernetes](videos/confidentialcomputingforKubernetes.mp4) | Security | Overview of Confidential computing and key scenarios.  | Video | ~1 min 20 sec |
 | [AZURE Policy overview](videos/Azurepolicyvideo.wmv) | Security | Animated overview video of Azure Policy | Video | ~1 min 10 secs |
@@ -27,7 +26,7 @@ This project is an index of cloud-native and Kubernetes meetup content.
 |[Azure Arc Overview](videos/AzureArcKubernetesScreens.pptx) | Day 2 operations |Guided screen by screen overview of Azure Arc for Kubernetes. Covers onboarding, configuration, Policy, and Monitoring.| PowerPoint | 32 slides |
 | [Container Insights demo](videos/ContainerInsightsdemo.mp4) | Day 2 operations | Demo of using Azure Monitor for container insights. Shows drilldowns, filtering and similar capabilities to zero in on relevant insights.   | Video | ~8 mins |
 | [Deploying to AKS using GitHub Actions](videos/DeployingtoAKSbyusingGitHubActions.docx) | Day 2 operations | 10 minute step by step getting started guide for GitHub Actions for Kubernetes on Azure | Document | 5 pages |
-| [Distributed stateful application at scale](videos/DistributedstatefulapplicationatscaleCosmosDB.mp4) | Solutions | AKS and Cosmos DB demo showcasing scale, security and observability. Suitable for technical audience. | Video | ~15 mins |
+|[Distributed stateful application at scale](https://cncontent.blob.core.windows.net/videos/DistributedstatefulapplicationatscaleCosmos%20DB.mp4) | Solutions | AKS and Cosmos DB demo showcasing scale, security and observability. Suitable for technical audience. | Video | ~15 mins |
 | [Azure Arc Data Services](videos/AzureArcDataServices.mp4) | Day 2 operations | Demo showing deployment of an Azure SQL DB Managed Instance on a Kubernetes cluster with Azure Arc. | Video | ~3.5 mins |
 | [Deploying Apps to AKS by using GitHub Actions](videos/DeployingAppstoAKSbyusingGitHubActions.mov) |Day 2 operations | Demo showing how to deploy Node.js App to Azure Kubernetes Service cluster by using GitHub actions. | Video | ~4 mins |
 | [Kubernetes security station Slides](videos/Kubernetessecuritystationdemorecordings.pptx) | Day 2 operations | Title slides for K8s demos stations | PowerPoint | 7 slides |
