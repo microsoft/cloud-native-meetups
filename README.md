@@ -10,6 +10,44 @@ This project is an index of cloud-native and Kubernetes meetup content.
 |  ![Kubernetes on Azure](k8s-on-azure.png)  <br/> [Kubernetes on Azure](presentations/k8s-on-azure.pptx) | Follow by diving into more details on running Kubernetes on Azure with Azure Kubernetes Service. |
 |  ![Azure Cosmos DB](cosmos-db.png) <br/> [Azure Cosmos DB](presentations/azure-cosmos-db.pptx) | Then talk about using Azure Cosmos DB, a globally distributed, massively scalable, multi-modal database service to build modern applications. |
 
+
+## Demo videos and related 
+
+| Asset | Category | Description | Type | Notes |
+|--|-|---|---|---|
+| [Kubernetes on Azure Pitch Deck](https://cncontent.blob.core.windows.net/videos/LearningZoneKubernetesonAzure.wmv) | Overview | Video recording of the Kubernetes on Azure pitch deck. Highlights key Kubernetes use cases and capabilities. | Video | ~10.5 mins |
+| [Kurbernetes DevOps](videos/KurbernetesDevOps.wmv) | Cloud native tools | Presentation showcasing end to end devOps with Kubernetes | Video | ~1 min 20 secs |
+| [KubeCon DevSpaces Lab Steps](videos/KubeConDevSpacesLabSteps.docx) | Cloud native tools | 10-minute step by step quick start document to increase pull request confidence using Dev Spaces | Document | 3 pages |
+| [Helm 3 Demo Loop](https://cncontent.blob.core.windows.net/videos/helm3demoloop.mp4) | Cloud native tools | Presentation video overview of key Helm 3 changes and demo of its capabilities | Video | ~7 mins |
+| [Helm 3 Demo](videos/helm3demo.mp4) | Cloud native tools | Helm 3 demo showing WordPress site deployment, namespace creation, & site test. | Video | ~3.5 mins |
+| [Confidential computing for Kubernetes](videos/confidentialcomputingforKubernetes.mp4) | Security | Overview of Confidential computing and key scenarios.  | Video | ~1 min 20 sec |
+| [AZURE Policy overview](videos/Azurepolicyvideo.wmv) | Security | Animated overview video of Azure Policy | Video | ~1 min 10 secs |
+|[AKS Diagnostics](videos/AKSDiagnositcs.mp4)|Day 2 operations | Overview of using AKS diagnostics within the Azure portal.|video|23 sec| 
+|[Azure Arc Overview](videos/AzureArcKubernetesScreens.pptx) | Day 2 operations |Guided screen by screen overview of Azure Arc for Kubernetes. Covers onboarding, configuration, Policy, and Monitoring.| PowerPoint | 32 slides |
+| [Container Insights demo](videos/ContainerInsightsdemo.mp4) | Day 2 operations | Demo of using Azure Monitor for container insights. Shows drilldowns, filtering and similar capabilities to zero in on relevant insights.   | Video | ~8 mins |
+| [Deploying to AKS using GitHub Actions](videos/DeployingtoAKSbyusingGitHubActions.docx) | Day 2 operations | 10 minute step by step getting started guide for GitHub Actions for Kubernetes on Azure | Document | 5 pages |
+|[Distributed stateful application at scale](https://cncontent.blob.core.windows.net/videos/DistributedstatefulapplicationatscaleCosmos%20DB.mp4) | Solutions | AKS and Cosmos DB demo showcasing scale, security and observability. Suitable for technical audience. | Video | ~15 mins |
+| [Azure Arc Data Services](videos/AzureArcDataServices.mp4) | Day 2 operations | Demo showing deployment of an Azure SQL DB Managed Instance on a Kubernetes cluster with Azure Arc. | Video | ~3.5 mins |
+| [Deploying Apps to AKS by using GitHub Actions](videos/DeployingAppstoAKSbyusingGitHubActions.mov) |Day 2 operations | Demo showing how to deploy Node.js App to Azure Kubernetes Service cluster by using GitHub actions. | Video | ~4 mins |
+| [Kubernetes security station Slides](videos/Kubernetessecuritystationdemorecordings.pptx) | Day 2 operations | Title slides for K8s demos stations | PowerPoint | 7 slides |
+| [ML Models in Containers](videos\MLModelsinContainers.mp4) | Solutions | Demo showing how to incorporate Azure Machine Learning into business applications built on Azure Kubernetes Service (AKS) and Azure Container Instances (ACI) | Video | ~5.5 mins |
+| [KEDA Demo](videos/KEDA.mp4) | Solutions | Demo of Azure Functions in Kubernetes with KEDA. | Video | ~3 mins |
+
+
+
+## Related Resources
+
+| Category | Resources |
+|----|-----|
+| Cloud Native Tools | [Best practices](https://aka.ms/aks/bestpractices) <br> [Azure free credit](https://azure.microsoft.com/en-us/free/) |
+| Security | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) <br>  [Brendan’s DevSecOps webinar](https://info.microsoft.com/ww-ondemand-help-deliver-applications-securely-with-devsecops-us.html)<br> [Security essentials whitepaper](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original) |
+| Day 2 Operations | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/)<br> [Kubernetes Up and running (eBook)](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/) |
+| Solutions | [Solution booklet](https://azure.microsoft.com/en-us/resources/kubernetes-on-azure-solution-booklet/) |
+| Kubernetes Learning | [Learning path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-and-training/) <br> [Azure free credit](https://azure.microsoft.com/en-us/free/) <br> [Effectively manage your Kubernetes clusters with built-in best practices (webinar)](https://info.microsoft.com/ww-landing-manage-your-kubernetes-clusters-with-built-in-best-practices.html?LCID=EN-US)<br> [Apply Kubernetes best practices for cluster management (webinar)](https://info.microsoft.com/ww-ondemand-apply-kubernetes-best-practices-for-cluster-management.html?lcid=en-us) <br> [Best practices to secure your Kubernetes cluster (webinar)](https://info.microsoft.com/ww-ondemand-best-practices-to-secure-your-kubernetes-cluster.html?lcid=en-us)|
+
+
+
+
 ## Hands-on content and demos
 
 From content on Microsoft Learn, tutorials to sample applications, use this content to run a 2-3 hour workshop, or extend it over 2 days.
